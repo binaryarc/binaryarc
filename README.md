@@ -1,7 +1,7 @@
 # 👋 LEE JIN HO
 
-I'm a passionate developer with experience across a range of modern technologies. I enjoy building scalable applications and working in cloud-native environments. Here’s a breakdown of my skill set:
-
+안녕하세요 백엔드 개발자 이진호 입니다.
+email : jjin4363@gmail.com
 ---
 
 ## 💡 Competitive Programming
