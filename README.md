@@ -1,6 +1,5 @@
 # 👋 LEE JIN HO
-
-- 안녕하세요 백엔드 개발자 이진호 입니다.
+- Notion : https://ivy-bougon-89d.notion.site/18170798acca8096913bdd90462642a6
 - email : jjin4363@gmail.com
 ---
 
