@@ -1,5 +1,4 @@
 # 👋 LEE JIN HO
-- Notion : https://ivy-bougon-89d.notion.site/18170798acca8096913bdd90462642a6
 - email : jjin4363@gmail.com
 ---
 
