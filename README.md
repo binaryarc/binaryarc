@@ -1,16 +1,9 @@
-# Jinho Lee
+# Backend Developer / Cloud Engineer
 
-Backend and automation-focused developer based in Busan.
+- Java, Spring 기반 백엔드 개발
+- Kubernetes 기반 서비스 운영
+- Cloud infrastructure 운영 경험
+- Claude Code, Codex 등 AI 도구 활용
+- 업무 자동화 및 엔지니어링 도구 개발
 
-I usually work with Python, Java, PostgreSQL, Docker, and cloud infrastructure.
-Recently I have been building trading automation tools, data pipelines, and small utilities that solve practical problems.
-
-## Current Focus
-
-- KRX and US stock trading automation
-- Data collection, feature engineering, and backtesting
-- Backend services and operational tooling
-
-## Contact
-
-- Email: jjin4363@gmail.com
+Contact: jjin4363@gmail.com
