@@ -19,7 +19,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 | Period | Company | Role & Work |
 |---|---|---|
 | 2026.02 - Present | **JIN Corporation** | WMS full-stack development / Java/Spring MVC backend / Vue3 dashboard / external system interfaces / LLM development workflow/harness engineering |
-| 2023.01 - 2024.04 | **Bespin Global Tech Center** | Cloud Engineer / AWS/GCP operation / EKS/GKE / Terraform modules / managed services and infrastructure operation / monitoring & incident response |
+| 2023.01 - 2024.04 | **Bespin Global Tech Center** | AWS / GCP / EKS / GKE / Terraform / MWAA / MSK / S3 / RDS |
 
 ---
 
@@ -27,6 +27,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 
 | Project | Description | Main Stack |
 |---|---|---|
+| **Samsung Electronics D-KMS Server Operations** | Operated D-KMS encryption servers and cloud infrastructure. Managed EKS and GKE clusters, and AWS managed services including MWAA, MSK, Global Accelerator, S3 and RDS | AWS, GCP, EKS, GKE, Terraform, MWAA, MSK, S3, RDS |
 | [**Galaxy Keyboard Plus**](https://github.com/binaryarc/galaxy-keyboard-plus) | AI keyboard app using **LLM, RAG and MCP**. Designed MCP API/manager flow, Google Maps MCP integration, CI/CD and container infrastructure | Java, Spring Boot, Python, FastAPI, MCP, RAG, Docker, Jenkins, Redis |
 | [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | Personalized real-estate recommendation service. Implemented data preprocessing, scoring and recommendation APIs using content-based and collaborative filtering | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
 | [**AQoO**](https://github.com/binaryarc/AQoO) | Idle aquarium web game. Team lead; implemented OAuth2, WebSocket/STOMP real-time features, REST APIs and Jenkins-based deployment | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
