@@ -18,7 +18,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 
 | Period | Company | Position | Role & Work |
 |---|---|---|---|
-| 2026.02 - Present | **JIN Corporation** | 주임 | WMS full-stack development / Java/Spring MVC backend / Vue3 dashboard / external system interfaces / LLM development workflow/harness engineering |
+| 2026.02 - Present | **JIN Corporation** | 주임 | WMS full-stack development / Java/Spring MVC backend / Vue3 dashboard / external system interfaces |
 | 2023.01 - 2024.04 | **Bespin Global Tech Center** | 사원 | Cloud infrastructure and D-KMS server operations / EKS and GKE cluster management / AWS managed services operation (MWAA, MSK, Global Accelerator, S3, RDS) / Terraform module development / monitoring and incident response |
 
 ---
