@@ -31,7 +31,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 | [**Galaxy Keyboard Plus**](https://github.com/binaryarc/galaxy-keyboard-plus) | AI keyboard app using **LLM, RAG and MCP**. Designed MCP API/manager flow, Google Maps MCP integration, CI/CD and container infrastructure | Java, Spring Boot, Python, FastAPI, MCP, RAG, Docker, Jenkins, Redis |
 | [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | Personalized real-estate recommendation service. Implemented data preprocessing, scoring and recommendation APIs using content-based and collaborative filtering | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
 | [**AQoO**](https://github.com/binaryarc/AQoO) | Idle aquarium web game. Team lead; implemented OAuth2, WebSocket/STOMP real-time features, REST APIs and Jenkins-based deployment | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
-| **Trip Clover** | Travel information platform using public tourism data and OpenAI API. Built travel-board/API features and data pipeline. **SSAFY 1st semester final project Grand Prize** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
+| [**Trip Clover**](https://www.notion.so/18170798acca81398271d3536a7e98ba?pvs=21) | Travel information platform using public tourism data and OpenAI API. Built travel-board/API features and data pipeline. **SSAFY 1st semester final project Grand Prize** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
 | [**Cloud MSA Infrastructure**](https://www.notion.so/18170798acca818d807ad778c6b99ae8?pvs=21) | Team lead for AWS-based highly available MSA infrastructure design. Built EKS, Terraform remote state and CodeBuild/ECR/ArgoCD deployment flow | AWS, EKS, Terraform, Docker, ArgoCD, Prometheus, Grafana |
 
 ---
