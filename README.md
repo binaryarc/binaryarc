@@ -19,7 +19,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 | Period | Company | Position | Role & Work |
 |---|---|---|---|
 | 2026.02 - Present | **JIN Corporation** | 주임 | WMS full-stack development / Java/Spring MVC backend / Vue3 dashboard / external system interfaces / LLM development workflow/harness engineering |
-| 2023.01 - 2024.04 | **Bespin Global Tech Center** | 사원 | AWS / GCP / EKS / GKE / Terraform / MWAA / MSK / S3 / RDS |
+| 2023.01 - 2024.04 | **Bespin Global Tech Center** | 사원 | Cloud infrastructure and D-KMS server operations / EKS and GKE cluster management / AWS managed services operation (MWAA, MSK, Global Accelerator, S3, RDS) / Terraform module development / monitoring and incident response |
 
 ---
 
@@ -73,6 +73,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-FF4438?style=flat-square&logo=valkey&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Cloud / Infra
