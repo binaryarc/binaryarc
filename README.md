@@ -111,13 +111,14 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 
 ## Awards
 
-- **SSAFY Project Competition** — Grand Prize 1 time, Excellence Award 3 times
+- **SSAFY Project Competition** — Grand Prize 1 time
+- **SSAFY Project Competition** — Excellence Award 3 times
 - **Social Innovation Idea Contest** — 1st Place
 
 ---
 
 <div align="center">
 
-**Backend / Cloud / Automation / AI-assisted Engineering**
+**Backend / DevOps / SRE / LLM**
 
 </div>
