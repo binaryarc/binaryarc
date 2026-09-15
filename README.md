@@ -2,10 +2,10 @@
 
 # Jinho Lee
 
-### Backend Developer · Cloud Engineer · AI-assisted Development
+### Backend Developer / Cloud Engineer / AI-assisted Development
 
-Java/Spring 기반 백엔드 개발과 AWS·GCP·Kubernetes 운영 경험을 함께 가지고 있습니다.  
-현재는 WMS를 개발하며 개발·인프라·자동화 관점에서 시스템을 개선하고 있습니다.
+Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함께 가지고 있습니다.  
+현재는 WMS를 개발하며 개발, 인프라, 자동화 관점에서 시스템을 개선하고 있습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-binaryarc-181717?style=flat-square&logo=github)](https://github.com/binaryarc)
 [![Email](https://img.shields.io/badge/Email-jjin4363%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jjin4363@gmail.com)
@@ -18,8 +18,8 @@ Java/Spring 기반 백엔드 개발과 AWS·GCP·Kubernetes 운영 경험을 함
 
 | Period | Company | Role & Work |
 |---|---|---|
-| 2026.02 - Present | **JIN Corporation** | WMS full-stack development · Java/Spring MVC backend · Vue3 dashboard · external system interfaces · LLM development workflow/harness engineering |
-| 2023.01 - 2024.04 | **Bespin Global Tech Center** | Cloud Engineer · AWS/GCP operation · EKS/GKE · Terraform modules · managed services and infrastructure operation · monitoring & incident response |
+| 2026.02 - Present | **JIN Corporation** | WMS full-stack development / Java/Spring MVC backend / Vue3 dashboard / external system interfaces / LLM development workflow/harness engineering |
+| 2023.01 - 2024.04 | **Bespin Global Tech Center** | Cloud Engineer / AWS/GCP operation / EKS/GKE / Terraform modules / managed services and infrastructure operation / monitoring & incident response |
 
 ---
 
@@ -102,6 +102,6 @@ Java/Spring 기반 백엔드 개발과 AWS·GCP·Kubernetes 운영 경험을 함
 
 <div align="center">
 
-**Backend · Cloud · Automation · AI-assisted Engineering**
+**Backend / Cloud / Automation / AI-assisted Engineering**
 
 </div>
