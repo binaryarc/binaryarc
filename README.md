@@ -32,7 +32,7 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 | [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | Personalized real-estate recommendation service. Implemented data preprocessing, scoring and recommendation APIs using content-based and collaborative filtering | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
 | [**AQoO**](https://github.com/binaryarc/AQoO) | Idle aquarium web game. Team lead; implemented OAuth2, WebSocket/STOMP real-time features, REST APIs and Jenkins-based deployment | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
 | **Trip Clover** | Travel information platform using public tourism data and OpenAI API. Built travel-board/API features and data pipeline. **SSAFY 1st semester final project Grand Prize** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
-| **Cloud MSA Infrastructure** | Team lead for AWS-based highly available MSA infrastructure design. Built EKS, Terraform remote state and CodeBuild/ECR/ArgoCD deployment flow | AWS, EKS, Terraform, Docker, ArgoCD, Prometheus, Grafana |
+| [**Cloud MSA Infrastructure**](https://www.notion.so/18170798acca818d807ad778c6b99ae8?pvs=21) | Team lead for AWS-based highly available MSA infrastructure design. Built EKS, Terraform remote state and CodeBuild/ECR/ArgoCD deployment flow | AWS, EKS, Terraform, Docker, ArgoCD, Prometheus, Grafana |
 
 ---
 
