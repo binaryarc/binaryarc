@@ -15,8 +15,8 @@
 
 | Period | Company | Position | Role & Work |
 |---|---|---|---|
-| 2026.02 - Present | **ZIN Corporation** | 주임 | WMS full-stack development / Java/Spring MVC backend / Vue3 dashboard / external system interfaces |
-| 2023.01 - 2024.04 | **Bespin Global Tech Center** | 사원 | Cloud infrastructure and D-KMS server operations / EKS and GKE cluster management / AWS managed services operation (MWAA, MSK, Global Accelerator, S3, RDS) / Terraform module development / monitoring and incident response |
+| 2026.02 - Present | **ZIN Corporation** | 주임 | WMS Java/Spring MVC 백엔드 개발 |
+| 2023.01 - 2024.04 | **Bespin Global Tech Center** | 사원 | 클라우드 인프라 및 D-KMS 서버 운영 / EKS·GKE 클러스터 관리 / AWS 관리형 서비스 운영(MWAA, MSK, Global Accelerator, S3, RDS) / Terraform 모듈 개발 / 모니터링 및 장애 대응 |
 
 ---
 
@@ -24,12 +24,12 @@
 
 | Project | Description | Main Stack |
 |---|---|---|
-| **Samsung Electronics D-KMS Server Operations** | Operated D-KMS encryption servers and cloud infrastructure. Managed EKS and GKE clusters, and AWS managed services including MWAA, MSK, Global Accelerator, S3 and RDS | AWS, GCP, EKS, GKE, Terraform, MWAA, MSK, S3, RDS |
-| [**Galaxy Keyboard Plus**](https://github.com/binaryarc/galaxy-keyboard-plus) | AI keyboard app using **LLM, RAG and MCP**. Designed MCP API/manager flow, Google Maps MCP integration, CI/CD and container infrastructure | Java, Spring Boot, Python, FastAPI, MCP, RAG, Docker, Jenkins, Redis |
-| [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | Personalized real-estate recommendation service. Implemented data preprocessing, scoring and recommendation APIs using content-based and collaborative filtering | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
-| [**AQoO**](https://github.com/binaryarc/AQoO) | Idle aquarium web game. Team lead; implemented OAuth2, WebSocket/STOMP real-time features, REST APIs and Jenkins-based deployment | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
-| [**Trip Clover**](https://www.notion.so/18170798acca81398271d3536a7e98ba?pvs=21) | Travel information platform using public tourism data and OpenAI API. Built travel-board/API features and data pipeline. **SSAFY 1st semester final project Grand Prize** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
-| [**Cloud MSA Infrastructure**](https://www.notion.so/18170798acca818d807ad778c6b99ae8?pvs=21) | Team lead for AWS-based highly available MSA infrastructure design. Built EKS, Terraform remote state and CodeBuild/ECR/ArgoCD deployment flow | AWS, EKS, Terraform, Docker, ArgoCD, Prometheus, Grafana |
+| **Samsung Electronics D-KMS Server Operations** | D-KMS 암호화 서버 및 클라우드 인프라 운영. EKS·GKE 클러스터와 MWAA, MSK, Global Accelerator, S3, RDS 등 AWS 관리형 서비스 관리 | AWS, GCP, EKS, GKE, Terraform, MWAA, MSK, S3, RDS |
+| [**Galaxy Keyboard Plus**](https://github.com/binaryarc/galaxy-keyboard-plus) | **LLM, RAG, MCP**를 활용한 AI 키보드 앱. MCP API 및 매니저 처리 흐름, Google Maps MCP 연동, CI/CD 및 컨테이너 인프라 설계 | Java, Spring Boot, Python, FastAPI, MCP, RAG, Docker, Jenkins, Redis |
+| [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | 개인화 부동산 추천 서비스. 콘텐츠 기반 필터링과 협업 필터링을 활용한 데이터 전처리, 점수 산정 및 추천 API 구현 | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
+| [**AQoO**](https://github.com/binaryarc/AQoO) | 방치형 수족관 웹 게임. 팀장으로서 OAuth2 인증, WebSocket/STOMP 기반 실시간 기능, REST API 및 Jenkins 기반 배포 구현 | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
+| [**Trip Clover**](https://www.notion.so/18170798acca81398271d3536a7e98ba?pvs=21) | 공공 관광 데이터와 OpenAI API를 활용한 여행 정보 플랫폼. 여행 게시판 및 API 기능, 데이터 파이프라인 구축. **SSAFY 1학기 최종 프로젝트 최우수상 수상** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
+| [**Cloud MSA Infrastructure**](https://www.notion.so/18170798acca818d807ad778c6b99ae8?pvs=21) | 팀장으로서 AWS 기반 고가용성 MSA 인프라 설계. EKS, Terraform 원격 상태 관리 및 CodeBuild/ECR/ArgoCD 배포 흐름 구축 | AWS, EKS, Terraform, Docker, ArgoCD, Prometheus, Grafana |
 
 ---
 
