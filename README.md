@@ -2,7 +2,7 @@
 
 # Jinho Lee
 
-### Backend Developer / Cloud Engineer / AI-assisted Development
+### DevOps / Platform Engineer | Kubernetes, AWS, Terraform | AI Infrastructure
 
 Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함께 가지고 있습니다.  
 현재는 WMS를 개발하며 개발, 인프라, 자동화 관점에서 시스템을 개선하고 있습니다.
@@ -74,7 +74,6 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Valkey](https://img.shields.io/badge/Valkey-FF4438?style=flat-square&logo=valkey&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Cloud / Infra
 
@@ -105,7 +104,6 @@ Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함
 ![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-5A45FF?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
