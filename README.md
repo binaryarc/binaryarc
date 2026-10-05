@@ -20,7 +20,7 @@
 
 ---
 
-## Side Projects
+## Projects
 
 | Project | Description | Main Stack |
 |---|---|---|
