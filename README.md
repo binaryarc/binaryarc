@@ -4,9 +4,6 @@
 
 ### DevOps / Platform Engineer | Kubernetes, AWS, Terraform | AI Infrastructure
 
-Java/Spring 기반 백엔드 개발과 AWS, GCP, Kubernetes 운영 경험을 함께 가지고 있습니다.  
-현재는 WMS를 개발하며 개발, 인프라, 자동화 관점에서 시스템을 개선하고 있습니다.
-
 [![GitHub](https://img.shields.io/badge/GitHub-binaryarc-181717?style=flat-square&logo=github)](https://github.com/binaryarc)
 [![Email](https://img.shields.io/badge/Email-jjin4363%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jjin4363@gmail.com)
 
