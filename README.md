@@ -20,11 +20,10 @@
 
 ---
 
-## Featured Projects
+## Side Projects
 
 | Project | Description | Main Stack |
 |---|---|---|
-| **Samsung Electronics D-KMS Server Operations** | D-KMS 암호화 서버 및 클라우드 인프라 운영. EKS·GKE 클러스터와 MWAA, MSK, Global Accelerator, S3, RDS 등 AWS 관리형 서비스 관리 | AWS, GCP, EKS, GKE, Terraform, MWAA, MSK, S3, RDS |
 | [**Galaxy Keyboard Plus**](https://github.com/binaryarc/galaxy-keyboard-plus) | **LLM, RAG, MCP**를 활용한 AI 키보드 앱. MCP API 및 매니저 처리 흐름, Google Maps MCP 연동, CI/CD 및 컨테이너 인프라 설계 | Java, Spring Boot, Python, FastAPI, MCP, RAG, Docker, Jenkins, Redis |
 | [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | 개인화 부동산 추천 서비스. 콘텐츠 기반 필터링과 협업 필터링을 활용한 데이터 전처리, 점수 산정 및 추천 API 구현 | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
 | [**AQoO**](https://github.com/binaryarc/AQoO) | 방치형 수족관 웹 게임. 팀장으로서 OAuth2 인증, WebSocket/STOMP 기반 실시간 기능, REST API 및 Jenkins 기반 배포 구현 | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
