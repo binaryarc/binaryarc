@@ -28,7 +28,7 @@
 | [**Galaxy Keyboard Plus**](https://github.com/binaryarc/galaxy-keyboard-plus) | **LLM, RAG, MCP**를 활용한 AI 키보드 앱. MCP API 및 매니저 처리 흐름, Google Maps MCP 연동, CI/CD 및 컨테이너 인프라 설계 | Java, Spring Boot, Python, FastAPI, MCP, RAG, Docker, Jenkins, Redis |
 | [**ZEEPSEEK**](https://github.com/binaryarc/zeepseek) | 개인화 부동산 추천 서비스. 콘텐츠 기반 필터링과 협업 필터링을 활용한 데이터 전처리, 점수 산정 및 추천 API 구현 | Java, Spring Boot, JPA, Python, FastAPI, scikit-learn, MySQL |
 | [**AQoO**](https://github.com/binaryarc/AQoO) | 방치형 수족관 웹 게임. 팀장으로서 OAuth2 인증, WebSocket/STOMP 기반 실시간 기능, REST API 및 Jenkins 기반 배포 구현 | Java, Spring Boot, JPA, STOMP, TypeScript, Docker, Jenkins |
-| [**Trip Clover**](https://www.notion.so/18170798acca81398271d3536a7e98ba?pvs=21) | 공공 관광 데이터와 OpenAI API를 활용한 여행 정보 플랫폼. 여행 게시판 및 API 기능, 데이터 파이프라인 구축. **SSAFY 1학기 최종 프로젝트 최우수상 수상** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
+| [**Trip Clover**](https://www.notion.so/18170798acca81398271d3536a7e98ba?pvs=21) | 공공 관광 데이터와 OpenAI API를 활용한 여행 정보 플랫폼. 여행 게시판 및 API 기능, 데이터 파이프라인 구축. **SSAFY 1학기 최종 프로젝트 대상 수상** | Java, Spring Boot, MyBatis, MySQL, Vue, OpenAI API |
 | [**Cloud MSA Infrastructure**](https://www.notion.so/18170798acca818d807ad778c6b99ae8?pvs=21) | 팀장으로서 AWS 기반 고가용성 MSA 인프라 설계. EKS, Terraform 원격 상태 관리 및 CodeBuild/ECR/ArgoCD 배포 흐름 구축 | AWS, EKS, Terraform, Docker, ArgoCD, Prometheus, Grafana |
 
 ---
