@@ -45,6 +45,7 @@
 
 | Certification | Issuer | Acquired |
 |---|---|---|
+| **AWS Certified Machine Learning Engineer – Associate (MLA-C01)** | AWS | 2026.10 |
 | **AWS Certified Solutions Architect – Professional** | AWS | 2023.09 |
 | **Certified Kubernetes Administrator (CKA)** | The Linux Foundation | 2023.10 |
 | **Engineer Information Processing** | HRD Korea | 2021.11 |
